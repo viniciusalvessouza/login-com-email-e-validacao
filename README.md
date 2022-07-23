@@ -1,6 +1,6 @@
 # Sistema de login com validação por email
 
-##PORJETO EM CONSTRUÇÂO (AINDA NÃO ESTÁ FUNCIONAL)
+## PORJETO EM CONSTRUÇÂO (AINDA NÃO ESTÁ FUNCIONAL)
 
 
 Sistema feito com node js para logar em um sistema e acessar um dashboard
